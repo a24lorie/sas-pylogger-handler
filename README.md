@@ -5,7 +5,7 @@
                                     Ene 2023
                             Alfredo Lorie Bernardo				
 
-                                 version 0.1.0
+                                 version 0.1.4
 
 ***
 
@@ -25,8 +25,7 @@ GitHub: <https://github.com/a24lorie/sas-pylogger-handler>
 ``` python
 import logging
 from logging import Handler
-
-import saspy.SASsession as SAS 
+from sas_handler import SASHandler 
 
 handler = SASHandler(sas=SAS)
 handler.setLevel(logging.ERROR)
