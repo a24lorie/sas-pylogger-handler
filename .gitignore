@@ -1,2 +1,4 @@
 /test/.env
-.idea
+.idea/
+dist/
+sas_pylogger_handler.egg-info/
