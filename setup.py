@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='sas-pylogger-handler',
-    version='0.1.4',
+    version='0.2.0',
     authors='Alfredo Lorie',
     author_email='a24lorie@gmail.com',
     description="""The SAS Python Logger Handler allows use the python logger system to send logging streams to SAS System logger""",

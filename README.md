@@ -2,10 +2,10 @@
                             SAS Python Logger Handler
     
 
-                                    Ene 2023
+                                    Jan 2023
                             Alfredo Lorie Bernardo				
 
-                                 version 0.1.4
+                                 version 0.2.0
 
 ***
 
